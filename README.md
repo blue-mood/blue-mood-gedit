@@ -26,4 +26,4 @@ xed 1.4.6 on Linux Mint 18.2 with XML, html, css, scheme (scm), python 2 and 3, 
 
 ### Credits
 
-The initial structure for this file was largely based upon the aforementioned Dracula theme for gedit, and I consulted [Gtksourceivew's style scheme definition reference](https://developer.gnome.org/gtksourceview/stable/style-reference.html) and [Gtksourceview's language specs](https://git.gnome.org/browse/gtksourceview/tree/data/language-specs).
+The initial structure for this file was largely based upon the aforementioned Dracula theme for gedit, and I consulted [Gtksourceview's style scheme definition reference](https://developer.gnome.org/gtksourceview/stable/style-reference.html) and [Gtksourceview's language specs](https://git.gnome.org/browse/gtksourceview/tree/data/language-specs).
