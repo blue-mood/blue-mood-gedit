@@ -42,6 +42,7 @@ SOFTWARE.
     <color name="tomato" value="#ff6347"/>
 	<color name="yellow" value="#ffff00"/>
     <color name="gold" value="#ffd700"/>
+    <color name="wheat" value="#f5deb3"/>
 
 	<!-- Helper colors -->
 	<color name="white" value="#ffffff"/>
@@ -72,6 +73,7 @@ SOFTWARE.
 	<style name="def:preprocessor" foreground="gold" bold="true"/>
 	<style name="def:comment" foreground="comment" bold="true"/>
     <style name="def:constant" foreground="tomato"/>
+    <style name="def:base-n-integer" foreground="wheat" bold="true"/>
 	
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="pink"/>
