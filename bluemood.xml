@@ -74,6 +74,7 @@ SOFTWARE.
 	<style name="def:comment" foreground="comment" bold="true"/>
     <style name="def:constant" foreground="tomato"/>
     <style name="def:base-n-integer" foreground="wheat" bold="true"/>
+    <style name="def:shebang" foreground="cyan" underline="true"/>
 	
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="gold" bold="true"/>
