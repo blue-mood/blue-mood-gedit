@@ -41,6 +41,7 @@ SOFTWARE.
 	<color name="red" value="#ff0000"/>
     <color name="tomato" value="#ff6347"/>
 	<color name="yellow" value="#ffff00"/>
+    <color name="gold" value="#ffd700"/>
 
 	<!-- Helper colors -->
 	<color name="white" value="#ffffff"/>
@@ -68,7 +69,7 @@ SOFTWARE.
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green" bold="true"/>
     <style name="def:underlined" foreground="tomato"/>
-	<style name="def:preprocessor" foreground="white"/>
+	<style name="def:preprocessor" foreground="gold" bold="true"/>
 	<style name="def:comment" foreground="comment" bold="true"/>
 	
 	<!-- Python-specific stuff -->
