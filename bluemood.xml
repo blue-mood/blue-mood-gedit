@@ -64,7 +64,7 @@ SOFTWARE.
 	<style name="def:identifier" foreground="cyan" bold="true"/>
 	<style name="def:keyword" foreground="gold" bold="true"/>
 	<style name="def:number" foreground="cyan" />
-	<style name="def:boolean" foreground="purple"/>
+	<style name="def:boolean" foreground="wheat" bold="true"/>
 	<style name="def:string" foreground="tomato"/>
 	<style name="def:special-char" foreground="green"/>
 	<style name="def:builtin" foreground="cyan"/>
