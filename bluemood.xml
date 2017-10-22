@@ -28,10 +28,9 @@ SOFTWARE.
 	<author>lmintmate</author>
 	<_description>A port of emacs Blue Mood theme to gedit/pluma/xed</_description>
 
-	<!-- Dracula colors -->
+	<!-- Blue Mood colors -->
 	<color name="background" value="#104e8b"/>
 	<color name="current-line" value="#ff0000"/>
-	<color name="selection" value="#bd93f9"/>
 	<color name="foreground" value="#f8f8f2"/>
 	<color name="comment" value="#b8b8b8"/>
 	<color name="cyan" value="#00ffff"/>
@@ -54,7 +53,7 @@ SOFTWARE.
 	<style name="current-line" foreground="current-line" background="current-line"/>
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
 	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
-	<style name="search-match" foreground="selection" background="yellow"/>
+	<style name="search-match" foreground="red" background="yellow"/>
 
 
 
