@@ -34,6 +34,7 @@ SOFTWARE.
 	<color name="foreground" value="#f8f8f2"/>
 	<color name="comment" value="#b8b8b8"/>
 	<color name="cyan" value="#00ffff"/>
+    <color name="steelblue3" value="#4f94cd"/>
 	<color name="green" value="#7fff00"/>
 	<color name="pink" value="#ff1493"/>
 	<color name="purple" value="#bd93f9"/>
@@ -51,7 +52,7 @@ SOFTWARE.
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" foreground="current-line" background="current-line"/>
 	<style name="line-numbers" foreground="weird-gray" background="background"/>
-	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
+	<style name="bracket-match" background="steelblue3"/>
 	<style name="search-match" foreground="red" background="yellow"/>
 
 
