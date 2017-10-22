@@ -39,7 +39,7 @@ SOFTWARE.
 	<color name="pink" value="#ff1493"/>
 	<color name="purple" value="#a020f0"/>
 	<color name="red" value="#ff0000"/>
-    <color name="reddish" value="#ff6347"/>
+    <color name="tomato" value="#ff6347"/>
 	<color name="yellow" value="#ffff00"/>
 
 	<!-- Helper colors -->
@@ -63,11 +63,11 @@ SOFTWARE.
 	<style name="def:keyword" foreground="green"/>
 	<style name="def:number" foreground="purple" />
 	<style name="def:boolean" foreground="purple"/>
-	<style name="def:string" foreground="reddish"/>
+	<style name="def:string" foreground="tomato"/>
 	<style name="def:special-char" foreground="green"/>
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green" bold="true"/>
-    <style name="def:underlined" foreground="reddish"/>
+    <style name="def:underlined" foreground="tomato"/>
 	<style name="def:preprocessor" foreground="white"/>
 	<style name="def:comment" foreground="comment" bold="true"/>
 	
