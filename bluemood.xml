@@ -59,7 +59,7 @@ SOFTWARE.
 
 
 	<style name="def:function" foreground="white"/>
-	<style name="def:identifier" foreground="green" bold="true"/>
+	<style name="def:identifier" foreground="cyan" bold="true"/>
 	<style name="def:keyword" foreground="green"/>
 	<style name="def:number" foreground="purple" />
 	<style name="def:boolean" foreground="purple"/>
