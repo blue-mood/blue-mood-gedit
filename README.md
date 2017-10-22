@@ -2,6 +2,10 @@
 
 This is a port of [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html) for gedit, pluma and xed.
 
+## Notes
+
+Keep in mind that this port doesn't correspond 100% to the original emacs theme, due to the limitations of gtksourceview in comparison to emacs's theming system.
+
 ## Installation
 
 Copy the bluemood.xml file to the color schemes directory: `~/.local/share/gedit/styles` (if on gedit) or `~/.local/share/gtksourceview-3.0/styles` (if on xed/pluma).

@@ -71,6 +71,7 @@ SOFTWARE.
     <style name="def:underlined" foreground="tomato"/>
 	<style name="def:preprocessor" foreground="gold" bold="true"/>
 	<style name="def:comment" foreground="comment" bold="true"/>
+    <style name="def:constant" foreground="tomato"/>
 	
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="pink"/>
