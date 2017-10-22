@@ -76,7 +76,7 @@ SOFTWARE.
     <style name="def:base-n-integer" foreground="wheat" bold="true"/>
 	
 	<!-- Python-specific stuff -->
-	<style name="python:module-handler" foreground="pink"/>
+	<style name="python:module-handler" foreground="gold" bold="true"/>
 	<style name="python:function-name" foreground="green"/>
 	<style name="python:decorator" foreground="green"/>
 	<style name="python:class-name" foreground="white"/>
