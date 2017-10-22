@@ -81,7 +81,7 @@ SOFTWARE.
 
 
 	<style name="def:specials" foreground="#f8f8f2"/>
-	<style name="def:statement" foreground="pink"/>
+	<style name="def:statement" foreground="cyan"/>
 
 	<style background="#468410" bold="true" foreground="#f8f8f2" name="diff:added-line"/>
 	<style foreground="#8b080b" name="diff:removed-line"/>
