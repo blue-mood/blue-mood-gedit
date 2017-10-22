@@ -67,6 +67,7 @@ SOFTWARE.
 	<style name="def:special-char" foreground="green"/>
 	<style name="def:builtin" foreground="cyan"/>
 	<style name="def:type" foreground="green" bold="true"/>
+    <style name="def:underlined" foreground="reddish"/>
 	<style name="def:preprocessor" foreground="white"/>
 	<style name="def:comment" foreground="comment" bold="true"/>
 	
