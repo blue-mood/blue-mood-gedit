@@ -49,7 +49,7 @@ SOFTWARE.
 	<style name="text" foreground="white" background="dodgerblue4"/>
 	<style name="selection" background="red" foreground="yellow"/>
 	<style name="cursor" foreground="white" background="white"/>
-	<style name="current-line" foreground="red" background="red"/>
+	<style name="current-line" background="red"/>
 	<style name="line-numbers" foreground="weird-gray" background="dodgerblue4"/>
 	<style name="bracket-match" background="steelblue3"/>
     <style name="bracket-mismatch" background="purple"/>
