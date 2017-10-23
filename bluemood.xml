@@ -42,15 +42,12 @@ SOFTWARE.
     <color name="wheat" value="#f5deb3"/>
     <color name="white" value="#ffffff"/>
 
-	<!-- Helper colors -->
-	<color name="weird-gray" value="#909194"/>
-
     <!-- Text elements -->
 	<style name="text" foreground="white" background="dodgerblue4"/>
 	<style name="selection" background="red" foreground="yellow"/>
 	<style name="cursor" foreground="white" background="white"/>
 	<style name="current-line" background="red"/>
-	<style name="line-numbers" foreground="weird-gray" background="dodgerblue4"/>
+	<style name="line-numbers" foreground="gray72" background="dodgerblue4"/>
 	<style name="bracket-match" background="steelblue3"/>
     <style name="bracket-mismatch" background="purple"/>
 	<style name="search-match" foreground="red" background="yellow"/>
