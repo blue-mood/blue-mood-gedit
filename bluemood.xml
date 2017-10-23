@@ -33,6 +33,7 @@ SOFTWARE.
 	<color name="gray72" value="#b8b8b8"/>
 	<color name="cyan" value="#00ffff"/>
     <color name="steelblue3" value="#4f94cd"/>
+    <color name="pale-turquoise4" value="#668b8b"/>
 	<color name="green" value="#7fff00"/>
 	<color name="purple" value="#a020f0"/>
 	<color name="red" value="#ff0000"/>
@@ -46,7 +47,7 @@ SOFTWARE.
 	<style name="text" foreground="white-smoke" background="dodgerblue4"/>
 	<style name="selection" background="red" foreground="yellow"/>
 	<style name="cursor" foreground="white-smoke"/>
-	<style name="current-line" background="red"/>
+	<style name="current-line" background="pale-turquoise4"/>
 	<style name="line-numbers" foreground="gray72" background="dodgerblue4"/>
 	<style name="bracket-match" background="steelblue3"/>
     <style name="bracket-mismatch" background="purple"/>
