@@ -29,10 +29,8 @@ SOFTWARE.
 	<_description>A port of emacs Blue Mood theme to gedit/pluma/xed</_description>
 
 	<!-- Blue Mood colors -->
-	<color name="background" value="#104e8b"/>
-	<color name="current-line" value="#ff0000"/>
-	<color name="foreground" value="#f8f8f2"/>
-	<color name="comment" value="#b8b8b8"/>
+	<color name="dodgerblue4" value="#104e8b"/>
+	<color name="gray72" value="#b8b8b8"/>
 	<color name="cyan" value="#00ffff"/>
     <color name="steelblue3" value="#4f94cd"/>
 	<color name="green" value="#7fff00"/>
@@ -42,23 +40,23 @@ SOFTWARE.
 	<color name="yellow" value="#ffff00"/>
     <color name="gold" value="#ffd700"/>
     <color name="wheat" value="#f5deb3"/>
+    <color name="white" value="#ffffff"/>
 
 	<!-- Helper colors -->
-	<color name="white" value="#ffffff"/>
-	<color name="bone-white" value="#f8f8f0"/>
 	<color name="weird-gray" value="#909194"/>
 
-	<style name="text" foreground="white" background="background"/>
+    <!-- Text elements -->
+	<style name="text" foreground="white" background="dodgerblue4"/>
 	<style name="selection" background="red" foreground="yellow"/>
 	<style name="cursor" foreground="white" background="white"/>
-	<style name="current-line" foreground="current-line" background="current-line"/>
-	<style name="line-numbers" foreground="weird-gray" background="background"/>
+	<style name="current-line" foreground="red" background="red"/>
+	<style name="line-numbers" foreground="weird-gray" background="dodgerblue4"/>
 	<style name="bracket-match" background="steelblue3"/>
     <style name="bracket-mismatch" background="purple"/>
 	<style name="search-match" foreground="red" background="yellow"/>
 
 
-
+    <!-- Programming elements -->
 	<style name="def:function" foreground="green" bold="true"/>
 	<style name="def:identifier" foreground="cyan" bold="true"/>
 	<style name="def:keyword" foreground="gold" bold="true"/>
@@ -70,7 +68,7 @@ SOFTWARE.
 	<style name="def:type" foreground="green" bold="true"/>
     <style name="def:underlined" foreground="tomato"/>
 	<style name="def:preprocessor" foreground="gold" bold="true"/>
-	<style name="def:comment" foreground="comment" bold="true"/>
+	<style name="def:comment" foreground="gray72" bold="true"/>
     <style name="def:constant" foreground="tomato"/>
     <style name="def:base-n-integer" foreground="wheat" bold="true"/>
     <style name="def:shebang" foreground="cyan"/>
