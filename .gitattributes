@@ -1,1 +1,3 @@
 *.xml linguist-language=XML
+* linguist-vendored
+*.xml linguist-vendored=false
