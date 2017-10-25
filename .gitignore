@@ -3,6 +3,7 @@
 
 # Whitelist some files
 !.gitignore
+!.gitattributes
 !LICENSE
 !bluemood.xml
 !README.md
