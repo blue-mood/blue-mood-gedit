@@ -74,7 +74,7 @@ SOFTWARE.
 	
 	<!-- Python-specific stuff -->
 	<style name="python:module-handler" foreground="gold" bold="true"/>
-	<style name="python:function-name" foreground="green"/>
+	<style name="python:function-name" foreground="green" bold="true"/>
 	<style name="python:decorator" foreground="green"/>
 	<style name="python:class-name" foreground="white-smoke"/>
 	<style name="python:special-variable" foreground="wheat" bold="true"/>
