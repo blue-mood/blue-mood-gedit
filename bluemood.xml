@@ -63,7 +63,7 @@ SOFTWARE.
 	<style name="def:boolean" foreground="cyan3" bold="true"/>
 	<style name="def:string" foreground="tomato"/>
 	<style name="def:special-char" foreground="green"/>
-	<style name="def:builtin" foreground="cyan"/>
+	<style name="def:builtin" foreground="wheat" bold="true"/>
 	<style name="def:type" foreground="green" bold="true"/>
     <style name="def:underlined" foreground="tomato"/>
 	<style name="def:preprocessor" foreground="gold" bold="true"/>
