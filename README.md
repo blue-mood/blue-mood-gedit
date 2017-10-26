@@ -22,7 +22,7 @@ Copy the bluemood.xml file to the color schemes directory: `~/.local/share/gedit
 
 ### Tested on…
 
-xed 1.4.6 on Linux Mint 18.2 with XML, html, css, scheme (scm), python 2 and 3, markdown, orgmode, plain text, and .bib files.
+xed 1.4.6 on Linux Mint 18.2 with XML, html, css, scheme (scm), python 2 and 3, markdown, orgmode, plain text, .desktop and .bib files.
 
 ### Credits
 
