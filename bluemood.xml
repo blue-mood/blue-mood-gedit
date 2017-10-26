@@ -32,6 +32,7 @@ SOFTWARE.
 	<color name="dodgerblue4" value="#104e8b"/>
 	<color name="gray72" value="#b8b8b8"/>
 	<color name="cyan" value="#00ffff"/>
+    <color name="cyan3" value="#00cdcd"/>
     <color name="steelblue3" value="#4f94cd"/>
     <color name="pale-turquoise4" value="#668b8b"/>
 	<color name="green" value="#7fff00"/>
@@ -59,7 +60,7 @@ SOFTWARE.
 	<style name="def:identifier" foreground="cyan" bold="true"/>
 	<style name="def:keyword" foreground="gold" bold="true"/>
 	<style name="def:number" foreground="cyan" />
-	<style name="def:boolean" foreground="wheat" bold="true"/>
+	<style name="def:boolean" foreground="cyan3" bold="true"/>
 	<style name="def:string" foreground="tomato"/>
 	<style name="def:special-char" foreground="green"/>
 	<style name="def:builtin" foreground="cyan"/>
@@ -76,8 +77,8 @@ SOFTWARE.
 	<style name="python:function-name" foreground="green"/>
 	<style name="python:decorator" foreground="green"/>
 	<style name="python:class-name" foreground="white-smoke"/>
-	<style name="python:special-variable" foreground="cyan"/>
-	<style name="python:builtin-constant" foreground="purple"/>
+	<style name="python:special-variable" foreground="wheat" bold="true"/>
+	<style name="python:builtin-constant" foreground="cyan3" bold="true"/>
 
 
 	<style name="def:specials" foreground="#f8f8f2"/>
