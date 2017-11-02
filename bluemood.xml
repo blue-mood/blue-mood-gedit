@@ -71,7 +71,7 @@ SOFTWARE.
     <style name="def:constant" foreground="tomato"/>
     <style name="def:base-n-integer" foreground="wheat" bold="true"/>
     <style name="def:shebang" foreground="cyan"/>
-    <style name="def:special-constant" foreground="green"/>
+    <style name="def:special-constant" foreground="cyan3" bold="true"/>
     <style name="def:error" foreground="tomato" bold="true"/>
 	
 	<!-- Python-specific stuff -->
