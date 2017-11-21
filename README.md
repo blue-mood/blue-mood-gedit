@@ -4,7 +4,7 @@ This is a port of [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-
 
 ## Motivation
 
-I like the aforementioned theme very much, and started wishing I could get something smiliar in xed, my editor of choice for the simple tasks. One day I stumbled upon the [Dracula theme for gedit](https://github.com/dracula/gedit), and realised I could make such a theme myself. The result is the present repository.
+I like the aforementioned theme very much, and started wishing I could get something similar in xed, my editor of choice for the simple tasks. One day I stumbled upon the [Dracula theme for gedit](https://github.com/dracula/gedit), and realised I could make such a theme myself. The result is the present repository.
 
 ## Notes
 
