@@ -12,7 +12,7 @@ Keep in mind that this port doesn't correspond 100% to the original emacs theme,
 
 ## Installation
 
-Copy the bluemood.xml file to the color schemes directory: `~/.local/share/gedit/styles` (if on gedit) or `~/.local/share/gtksourceview-3.0/styles` (if on xed/pluma).
+Go to the Fonts & Colors tab of the preferences, press the Add button under the Color Scheme list and navigate to the theme file. Alternatively, copy the bluemood.xml file to the color schemes directory: `~/.local/share/gedit/styles` (if on gedit), `~/.local/share/gtksourceview-3.0/styles` (if on xed), or `~/.config/pluma/styles` (if on pluma).
 
 ## Activation
 
@@ -22,7 +22,7 @@ Copy the bluemood.xml file to the color schemes directory: `~/.local/share/gedit
 
 ### Tested on…
 
-xed 1.4.6 on Linux Mint 18.2 with XML, html, css, scheme (scm), python 2 and 3, markdown, orgmode, plain text, javascript, json, Go, .desktop and .bib files.
+xed 1.6.3 on Linux Mint 18.3 (with XML, html, css, scheme (scm), python 2 and 3, markdown, orgmode, plain text, javascript, json, Go, .desktop and .bib files), and pluma 1.12.2 on Ubuntu Mate 16.04.3.
 
 ### Credits
 
