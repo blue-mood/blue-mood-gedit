@@ -43,12 +43,13 @@ SOFTWARE.
     <color name="gold" value="#ffd700"/>
     <color name="wheat" value="#f5deb3"/>
     <color name="white-smoke" value="#f5f5f5"/>
+    <color name="235c94" value="#235c94"/>
 
     <!-- Text elements -->
 	<style name="text" foreground="white-smoke" background="dodgerblue4"/>
 	<style name="selection" background="red" foreground="yellow"/>
 	<style name="cursor" foreground="white-smoke"/>
-	<style name="current-line" background="pale-turquoise4"/>
+	<style name="current-line" background="235c94"/>
 	<style name="line-numbers" foreground="gray72" background="dodgerblue4"/>
 	<style name="bracket-match" background="steelblue3"/>
     <style name="bracket-mismatch" background="purple"/>
