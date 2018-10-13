@@ -87,8 +87,10 @@ SOFTWARE.
 	<style name="def:specials" foreground="#f8f8f2"/>
 	<style name="def:statement" foreground="cyan"/>
 
-	<style background="#468410" bold="true" foreground="#f8f8f2" name="diff:added-line"/>
-	<style foreground="#8b080b" name="diff:removed-line"/>
-	<style background="#243a5f" foreground="#f8f8f2" name="diff:changed-line"/>
+    <!-- Diff -->
+
+	<style name="diff:added-line" foreground="green" bold="true"/>
+	<style name="diff:removed-line" foreground="tomato"/>
+	<style name="diff:changed-line" background="#243a5f" foreground="#f8f8f2"/>
 
 </style-scheme>
